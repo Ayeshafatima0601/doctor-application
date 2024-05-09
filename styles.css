@@ -1,0 +1,67 @@
+body {
+    font-family: Roboto;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+.name {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    text-align-last: center
+}
+
+.date {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    text-align-last: center;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    text-align-last: center;
+}
+
+.preffer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    text-align-last: center;
+}
+
+h2 {
+    margin: 0%;
+    font-size: 25px;
+    font-weight: bold;
+    background: lightsteelblue;
+    color: white;
+}
+
+
+p {
+    text-align: start;
+    margin: 10px;
+
+}
+
+button {
+    width: 120px;
+    height: 35px;
+    background: rgb(246, 66, 66);
+}
+
+h1 {
+    margin: 0%;
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+    padding-bottom: 80px;
+    background-image: url("https://media.istockphoto.com/id/493216251/photo/doctor-attending-ill-man-with-family-in-ward.jpg?s=612x612&w=0&k=20&c=R5u5MtlSxaDLGltznZAJ1KD-9ZtrJzdN_FfmnTCxsCo=");
+    filter: brightness(0.90);
+
+}
